@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Russ_Loadout_Assault_D
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.447860 0.438355 0.584596
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
