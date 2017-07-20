@@ -1,0 +1,11 @@
+# Material file for Sword_12.obj
+
+newmtl CH_GW_SWD12_DIF_M3
+	Ns 10
+	d 1
+	illum 2
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0 0.0 0.0
+	Ka 0.5882 0.5882 0.5882
+	map_Kd Textures\CH_GW_SWD12_DIF_M3.png
+
